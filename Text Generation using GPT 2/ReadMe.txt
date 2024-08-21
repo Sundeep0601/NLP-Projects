@@ -1,0 +1,1 @@
+This project's main aim is to generate the text using the input given by the user. It is a GPT -2 model and I used "GPT2LMHeadModel" which is a class that represents the GPT-2 model with a language modeling head on top and "GPT2Tokenizer", a class that handles tokenization, converting text into tokens that the GPT-2 model can process.
